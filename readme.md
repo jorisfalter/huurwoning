@@ -1,6 +1,8 @@
-Goal is to get the eligible jobs from Toptal every moment via email
+Huurwoningen Pararius
+https://www.pararius.nl/huurwoningen/zaandam/0-2000
 
 ## Current Challengs and Next Steps
 
-- I would like to detect it on push, but I don't think that's possible
-- I foward this to a mailserver, Postmark
+1. Fetch the data
+2. check how often it updates
+3. setup a cronjob
